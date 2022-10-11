@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "HomePage";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+
+        <!--Main Navigation-->
+        <!--Main layout-->
+        <main class="my-5">
+            <div class="container">
+                <!--Section: Content-->
+                <section>
+                    <!-- Jumbotron -->
+                    <div id="intro" class="p-5 text-center bg-light shadow-5 rounded-5 mb-5">
+                        <h1 class="mb-3 h2">Book Appoinment With Doctor</h1>
+                        <p class="mb-3">in one click</p>
+                        @Html.ActionLink("Patient Login", "PatientLogin", "Login", null, new { @class = "btn btn-primary m-2" })
+                        @Html.ActionLink("Doctor Login", "DoctorLogin", "Login", null, new { @class = "btn btn-primary m-2" })
+                        @*<a class="btn btn-primary m-2" href="" target="@Html.ActionLink("Back to List", "Index")"
+        role="button">Doctor Login</a>*@
+                    </div>
+                    <!-- Jumbotron -->
+                </section>
+                <!--Section: Content-->
+                <!--Section: Content-->
+                <section class="text-center">
+                    <div class="row" style="margin: 0px 90px;">
+                        <div class="col-lg-6 col-md-12 mb-4 mx-auto" style="width: 400px;">
+                            <div class="card">
+                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                                    <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
+                                    <a href="#!">
+                                        <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Patient Login</h5>
+                                    <p class="card-text">
+                                        Some quick example text to build on the card title and make up the bulk of the
+                                        card's content.
+                                    </p>
+                                    <a href="#!" class="btn btn-primary">Read</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 mb-4 mx-auto" style="width: 400px;">
+                            <div class="card">
+                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                                    <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
+                                    <a href="#!">
+                                        <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Doctor's Login</h5>
+                                    <p class="card-text">
+                                        Some quick example text to build on the card title and make up the bulk of the
+                                        card's content.
+                                    </p>
+                                    <a href="#!" class="btn btn-primary">Read</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </section>
+            </div>
+        </main>
+        <!--Main layout-->
+} 

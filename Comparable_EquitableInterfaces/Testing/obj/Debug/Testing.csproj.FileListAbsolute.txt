@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Testing\bin\Debug\Testing.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Testing\bin\Debug\Testing.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Testing\obj\Debug\Testing.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Testing\obj\Debug\Testing.pdb

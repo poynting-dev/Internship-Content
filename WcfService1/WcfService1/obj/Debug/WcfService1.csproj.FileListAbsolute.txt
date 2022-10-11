@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

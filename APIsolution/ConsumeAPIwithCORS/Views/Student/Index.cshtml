@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>Students</h2>
+<div id="students">
+            
+</div>
+
+<script>
+    var uri = 'https://localhost:44371/api/student';
+
+    $(document).ready(function () {
+        $.getJSON(uri)
+            .done(function (data) {
+                $.each(data, function (key, item) {
+                    $('<p>', { text: item.Id }).appendTo($('#students'));
+                    $('<p>', { text: item.Name }).appendTo($('#students'));
+                    $('<p>', { text: item.EmailId }).appendTo($('#students'));
+                    $('<p>', { text: item.DOB }).appendTo($('#students'));
+                });
+            });
+    });
+</script>

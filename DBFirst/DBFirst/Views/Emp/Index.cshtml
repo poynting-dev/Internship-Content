@@ -1,0 +1,43 @@
+﻿@using System.Collections;
+@model IEnumerable<Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table mx-4">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Salary)
+                </td>
+                @*<td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.AppointmentId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.AppointmentId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.AppointmentId })
+                </td>*@
+            </tr>
+        }
+    </div>
+</table>

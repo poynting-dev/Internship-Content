@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\DelegatesExamples\DelegatesExamples\obj\Debug\net6.0\DelegatesExamples.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\DelegatesExamples\DelegatesExamples\obj\Debug\net6.0\DelegatesExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\DelegatesExamples\DelegatesExamples\obj\Debug\net6.0\DelegatesExamples.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\DelegatesExamples\DelegatesExamples\obj\Debug\net6.0\DelegatesExamples.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\DelegatesExamples\DelegatesExamples\obj\Debug\net6.0\DelegatesExamples.csproj.CoreCompileInputs.cache

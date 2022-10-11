@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb

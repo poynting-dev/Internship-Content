@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Comparable_EquitableInterfaces\bin\Debug\Comparable_EquitableInterfaces.exe.config
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Comparable_EquitableInterfaces\bin\Debug\Comparable_EquitableInterfaces.exe
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Comparable_EquitableInterfaces\bin\Debug\Comparable_EquitableInterfaces.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Comparable_EquitableInterfaces\obj\Debug\CustomCollectionsExamples.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Comparable_EquitableInterfaces\obj\Debug\CustomCollectionsExamples.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Comparable_EquitableInterfaces\obj\Debug\Comparable_EquitableInterfaces.exe
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Comparable_EquitableInterfaces\Comparable_EquitableInterfaces\obj\Debug\Comparable_EquitableInterfaces.pdb

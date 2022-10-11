@@ -1,0 +1,172 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <form id="sendingEmail">
+        <br />
+        Id
+        <input type="text" class="form-control" id="Id" /> <br />
+        Name
+        <input type="text" class="form-control" id="Name" /> <br />
+        Father's Name
+        <input type="text" class="form-control" id="FatherName" /> <br />
+        Email
+        <input type="text" class="form-control" id="Email" /> <br />
+        Mobile
+        <input type="text" class="form-control" id="Mobile" /> <br />
+        Description
+        <input type="text" class="form-control" id="Description" /> <br />
+        <a href="#" class="btn btn-primary" onclick="SendEmail()">Save Data</a>
+        <a href="#" class="btn btn-success" onclick="UpdateData()">Update</a>
+
+        <hr />
+        <table class="table table-bordered table-responsive" id="employeeTable">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Father's Name</th>
+                    <th>Email</th>
+                    <th>Mobile</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody id="tblEmail">
+
+            </tbody>
+        </table>
+
+    </form>
+</div>
+
+<script>
+    $(function () {
+        LoadGrid();
+    });
+
+    $(function () {
+        $('#loaderbody').addClass('hide');
+    
+
+        $(document).bind('ajaxStart', function () {
+            $("#loaderbody").removeClass("hide");
+        }).bind('ajaxStop', function () {
+            $("#loaderbody").addClass("hide");
+        });
+    });
+    
+
+    function SendEmail() {
+        var Id = $("#Id").val();
+        var Name = $("#Name").val();
+        var FName = $("#FatherName").val();
+        var Email = $("#Email").val();
+        var Mobile = $("#Mobile").val();
+        var Description = $("#Description").val();
+        $.ajax({
+            type: "POST",
+            url: ("/Home/Insert?Id=" + Id + "&&Name=" + Name + "&&FatherName=" + FName + "&&Email=" + Email + "&&Mobile=" + Mobile + "&&Description=" + Description),
+            success: function (result) {
+                alert(result);
+                $("#Id").val('')
+                $("#Name").val('')
+                $("#FatherName").val('')
+                $("#Email").val('')
+                $("#Mobile").val('')
+                $("#Description").val('')
+                $.notify("Saved Successfully", "success");
+                LoadGrid();
+            },
+            error: function (result) {
+                alert(result);
+            }
+        });
+    }
+
+    function LoadGrid() {
+        $("#tblEmail").html('')
+
+        $.ajax({
+            type: "GET",
+            url: "/Home/LoadDb",
+            success: function (BindData) {
+                console.log(BindData);
+                var row = "";
+                $.each(BindData, function (i, v) {
+                    row += "<tr><td>" + v.Id + "</td><td>" + v.Name + "</td><td>" + v.FatherName + "</td><td>" + v.Email + "</td><td>" + v.Mobile + "</td><td>" + v.Description + "</td><td>" + '<a href="#" data-id="' + v.Id + '"onclick="Delete(' + v.Id + ')">Delete</a> | <a href="#" data-id="" onclick="GetResultFromGrid(' + v.Id +')">Edit</a>' + "</td></tr>";
+                });
+                $("#tblEmail").append(row);
+                if (typeof activatejQueryTable !== undefined && $.isFunction(activatejQueryTable))
+                    activatejQueryTable();
+            },
+            error: function (BindData) {
+                $("#tblEmail").html('');
+            }
+        });
+    }
+
+    function Delete(v) {
+        if (confirm("Are you confirm to delete this record ?") == true) {
+            var PID = v;
+            $.ajax({
+                type: "POST",
+                url: ("/Home/Delete?Id=" + PID),
+                success: function (result) {
+                    $.notify(result, "warn");
+                    LoadGrid();
+                    if (typeof activatejQueryTable !== undefined && $.isFunction(activatejQueryTable))
+                        activatejQueryTable();
+                },
+                error: function (result) {
+                    $.notify(result, "error");
+                    alert(result);
+                }
+            });
+        }
+    }
+
+    function GetResultFromGrid(elem) {
+        var row_id = elem;
+        $.ajax({
+            url: ("/Home/LoadDbbyId?Id=" + row_id),
+            type: "GET",
+            success: function (data) {
+                console.log(data[0]);
+                $("#Id").val(data[0].Id);
+                $("#Name").val(data[0].Name);
+                $("#FatherName").val(data[0].FatherName);
+                $("#Email").val(data[0].Email);
+                $("#Mobile").val(data[0].Mobile);
+                $("#Description").val(data[0].Description);
+            }
+        })
+    }
+
+    function UpdateData() {
+        var Id = $("#Id").val();
+        var Name = $("#Name").val();
+        var FName = $("#FatherName").val();
+        var Email = $("#Email").val();
+        var Mobile = $("#Mobile").val();
+        var Description = $("#Description").val();
+        $.ajax({
+            type: "POST",
+            url: ("/Home/Insert?Id=" + Id + "&&Name=" + Name + "&&FatherName=" + FName + "&&Email=" + Email + "&&Mobile=" + Mobile + "&&Description=" + Description),
+            success: function (result) {
+                alert(result);
+                $("#Id").val('')
+                $("#Name").val('')
+                $("#FatherName").val('')
+                $("#Email").val('')
+                $("#Mobile").val('')
+                $("#Description").val('')
+                $.notify(result, "success");
+                LoadGrid();
+            },
+            error: function (result) {
+                $.notify(result, "warn");
+            }
+        });
+    }
+</script>

@@ -1,0 +1,285 @@
+﻿++Solution 'WebServices' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:WebServices.sln
+++WebServices
+i:{00000000-0000-0000-0000-000000000000}:WebServices
+++Properties
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webservices\properties\
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\properties\
+++AssemblyInfo.cs
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webservices\properties\assemblyinfo.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\properties\assemblyinfo.cs
+++References
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++Microsoft.CSharp
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++Microsoft.Web.Infrastructure
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++Newtonsoft.Json
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.ComponentModel.DataAnnotations
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Configuration
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Core
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Data
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Data.DataSetExtensions
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Drawing
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.EnterpriseServices
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Net.Http
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+++System.Net.Http.Formatting
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+++System.Web
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Web.ApplicationServices
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Web.DynamicData
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Web.Entity
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Web.Extensions
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Web.Helpers
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+++System.Web.Mvc
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+++System.Web.Razor
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+++System.Web.Services
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Web.WebPages
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+++System.Web.WebPages.Deployment
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+++System.Web.WebPages.Razor
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+++System.Xml
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Xml.Linq
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++ASMXService.asmx
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webservices\asmxservice.asmx
+++packages.config
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webservices\packages.config
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\packages.config
+++Web.config
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webservices\web.config
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\web.config
+++ASMXService.asmx.cs
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webservices\asmxservice.asmx.cs
+++Web.Debug.config
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webservices\web.debug.config
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\web.debug.config
+++Web.Release.config
+i:{6bf25d2c-381a-490e-8dd4-2c316d4d3252}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webservices\web.release.config
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\web.release.config
+++WebApplication1
+i:{00000000-0000-0000-0000-000000000000}:WebApplication1
+++Connected Services
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\connected services\
+++ServiceReference1
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\connected services\servicereference1\
+++Antlr3.Runtime
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++AspNet.ScriptManager.bootstrap
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++AspNet.ScriptManager.jQuery
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++Microsoft.AspNet.FriendlyUrls
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++Microsoft.AspNet.Web.Optimization.WebForms
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++Microsoft.ScriptManager.MSAjax
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++Microsoft.ScriptManager.WebForms
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Runtime.Serialization
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.ServiceModel
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++System.Web.Optimization
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++WebGrease
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:
+++App_Data
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\app_data\
+++App_Start
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\app_start\
+++BundleConfig.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\app_start\bundleconfig.cs
+++RouteConfig.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\app_start\routeconfig.cs
+++Content
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\
+++bootstrap-theme.css
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\bootstrap.css
+++bootstrap.css.map
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\bootstrap.css.map
+++bootstrap.min.css
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\bootstrap.min.css.map
+++Site.css
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\content\site.css
+++fonts
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\fonts\
+++Scripts
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\
+++WebForms
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\
+++bootstrap.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\bootstrap.js
+++bootstrap.min.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\modernizr-2.8.3.js
+++About.aspx
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\about.aspx
+++Bundle.config
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\bundle.config
+++Contact.aspx
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\contact.aspx
+++Default.aspx
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\default.aspx
+++Default.aspx.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\default.aspx.cs
+++Default.aspx.designer.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\default.aspx.designer.cs
+++favicon.ico
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\favicon.ico
+++Global.asax
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\global.asax
+++Site.Master
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\site.master
+++Site.Mobile.Master
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\site.mobile.master
+++Site.Mobile.Master.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\site.mobile.master.cs
+++Site.Mobile.Master.designer.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\site.mobile.master.designer.cs
+++ViewSwitcher.ascx
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\viewswitcher.ascx
+++ViewSwitcher.ascx.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\viewswitcher.ascx.cs
+++ViewSwitcher.ascx.designer.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\viewswitcher.ascx.designer.cs
+++glyphicons-halflings-regular.eot
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\fonts\glyphicons-halflings-regular.woff2
+++MSAjax
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\
+++DetailsView.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\detailsview.js
+++Focus.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\focus.js
+++GridView.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\gridview.js
+++Menu.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\menu.js
+++MenuStandards.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\menustandards.js
+++SmartNav.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\smartnav.js
+++TreeView.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\treeview.js
+++WebForms.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\webforms.js
+++WebParts.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\webparts.js
+++WebUIValidation.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\webuivalidation.js
+++About.aspx.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\about.aspx.cs
+++About.aspx.designer.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\about.aspx.designer.cs
+++Contact.aspx.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\contact.aspx.cs
+++Contact.aspx.designer.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\contact.aspx.designer.cs
+++Global.asax.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\global.asax.cs
+++Site.Master.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\site.master.cs
+++Site.Master.designer.cs
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\site.master.designer.cs
+++MicrosoftAjax.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajax.js
+++MicrosoftAjaxApplicationServices.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxapplicationservices.js
+++MicrosoftAjaxComponentModel.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxcomponentmodel.js
+++MicrosoftAjaxCore.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxcore.js
+++MicrosoftAjaxGlobalization.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxglobalization.js
+++MicrosoftAjaxHistory.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxhistory.js
+++MicrosoftAjaxNetwork.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxnetwork.js
+++MicrosoftAjaxSerialization.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxserialization.js
+++MicrosoftAjaxTimer.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxtimer.js
+++MicrosoftAjaxWebForms.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxwebforms.js
+++MicrosoftAjaxWebServices.js
+i:{cc33b896-a6fc-444b-958b-4cf61c4d4e9d}:c:\users\hp\documents\visual studio 2022\code snippets\webservices\webapplication1\scripts\webforms\msajax\microsoftajaxwebservices.js

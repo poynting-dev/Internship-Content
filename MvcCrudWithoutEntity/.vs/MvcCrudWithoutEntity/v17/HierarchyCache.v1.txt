@@ -1,0 +1,208 @@
+﻿++Solution 'MvcCrudWithoutEntity' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MvcCrudWithoutEntity.sln
+++MvcCrudWithoutEntity
+i:{00000000-0000-0000-0000-000000000000}:MvcCrudWithoutEntity
+++Properties
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\properties\
+++References
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++App_Data
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\app_data\
+++App_Start
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\app_start\
+++BundleConfig.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\app_start\routeconfig.cs
+++Content
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\
+++bootstrap-theme.css
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\bootstrap.css
+++bootstrap.css.map
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\bootstrap.css.map
+++bootstrap.min.css
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\bootstrap.min.css.map
+++Site.css
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\content\site.css
+++Controllers
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\controllers\
+++HomeController.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\controllers\homecontroller.cs
+++UserController.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\controllers\usercontroller.cs
+++fonts
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\fonts\
+++Models
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\models\
+++Repository
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\models\repository\
+++UserRegModel.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\models\userregmodel.cs
+++Scripts
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\
+++Views
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\
+++Home
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\home\
+++Shared
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\shared\
+++User
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\user\
+++Create.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\user\create.cshtml
+++Delete.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\user\delete.cshtml
+++Details.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\user\details.cshtml
+++Edit.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\user\edit.cshtml
+++Index.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\user\index.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\home\index.cshtml
+++_ViewStart.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\_viewstart.cshtml
+++Web.config
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\web.config
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\web.config
+++favicon.ico
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\favicon.ico
+++Global.asax
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\global.asax
+++packages.config
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\packages.config
+++AssemblyInfo.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++Microsoft.CSharp
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++Microsoft.Web.Infrastructure
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++Newtonsoft.Json
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.ComponentModel.DataAnnotations
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Configuration
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Core
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Data
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Data.DataSetExtensions
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Drawing
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.EnterpriseServices
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Net.Http
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Net.Http.WebRequest
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Abstractions
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.ApplicationServices
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.DynamicData
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Entity
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Extensions
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Helpers
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Mvc
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Optimization
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Razor
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Routing
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.Services
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.WebPages
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.WebPages.Deployment
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Web.WebPages.Razor
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Xml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++System.Xml.Linq
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++WebGrease
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:
+++glyphicons-halflings-regular.eot
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\fonts\glyphicons-halflings-regular.woff2
+++DAL.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\models\repository\dal.cs
+++bootstrap.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\bootstrap.js
+++bootstrap.min.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\scripts\modernizr-2.8.3.js
+++About.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\home\about.cshtml
+++Contact.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\home\contact.cshtml
+++_Layout.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\shared\_layout.cshtml
+++Error.cshtml
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\views\shared\error.cshtml
+++Global.asax.cs
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\global.asax.cs
+++Web.Debug.config
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\web.debug.config
+++Web.Release.config
+i:{6013cb0c-2d8b-4fb6-ba85-e7d406391767}:c:\users\hp\documents\visual studio 2022\code snippets\mvccrudwithoutentity\mvccrudwithoutentity\web.release.config

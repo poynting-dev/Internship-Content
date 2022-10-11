@@ -1,0 +1,204 @@
+﻿++Solution 'CrudMvcTestAjax' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:CrudMvcTestAjax.sln
+++CrudMvcTestAjax
+i:{00000000-0000-0000-0000-000000000000}:CrudMvcTestAjax
+++Properties
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\properties\
+++References
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++App_Data
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\app_data\
+++App_Start
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\app_start\
+++BundleConfig.cs
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\app_start\routeconfig.cs
+++Content
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\
+++Controllers
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\controllers\
+++EmployeeController.cs
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\controllers\employeecontroller.cs
+++fonts
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\fonts\
+++Models
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\models\
+++Employee.cs
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\models\employee.cs
+++Scripts
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\
+++Views
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\
+++Employee
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\employee\
+++Index.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\employee\index.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\home\index.cshtml
+++ViewAll.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\employee\viewall.cshtml
+++Home
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\home\
+++Shared
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\shared\
+++_Layout.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\shared\_layout.cshtml
+++Error.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\_viewstart.cshtml
+++Web.config
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\web.config
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\web.config
+++favicon.ico
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\favicon.ico
+++Global.asax
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\global.asax
+++packages.config
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\packages.config
+++AssemblyInfo.cs
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++Microsoft.CSharp
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++Microsoft.Web.Infrastructure
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++Newtonsoft.Json
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.ComponentModel.DataAnnotations
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Configuration
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Core
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Data
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Data.DataSetExtensions
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Drawing
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.EnterpriseServices
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Net.Http
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Net.Http.WebRequest
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Abstractions
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.ApplicationServices
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.DynamicData
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Entity
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Extensions
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Helpers
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Mvc
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Optimization
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Razor
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Routing
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.Services
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.WebPages
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.WebPages.Deployment
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Web.WebPages.Razor
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Xml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++System.Xml.Linq
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++WebGrease
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:
+++bootstrap-theme.css
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\bootstrap.css
+++bootstrap.css.map
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\bootstrap.css.map
+++bootstrap.min.css
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\bootstrap.min.css.map
+++Site.css
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\content\site.css
+++glyphicons-halflings-regular.eot
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\bootstrap.js
+++bootstrap.min.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\modernizr-2.8.3.js
+++About.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\home\about.cshtml
+++Contact.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\home\contact.cshtml
+++Global.asax.cs
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\global.asax.cs
+++Web.Debug.config
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\web.debug.config
+++Web.Release.config
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\web.release.config
+++AddOrEdit.cshtml
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\views\employee\addoredit.cshtml
+++Scripts.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\scripts.js
+++GlobalClass.cs
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\globalclass.cs
+++notify.min.js
+i:{b6b14b59-1481-4361-a6ea-1e83c1e27daf}:c:\users\hp\documents\visual studio 2022\code snippets\crudmvctestajax\crudmvctestajax\scripts\notify.min.js

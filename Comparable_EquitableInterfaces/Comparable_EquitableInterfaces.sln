@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollectionsExamples", "Comparable_EquitableInterfaces\CustomCollectionsExamples.csproj", "{8C81D30D-164D-40DC-B952-314728EAB74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{14343ADF-5837-4E66-90A0-B5C1E90DDCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C81D30D-164D-40DC-B952-314728EAB74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C81D30D-164D-40DC-B952-314728EAB74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C81D30D-164D-40DC-B952-314728EAB74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C81D30D-164D-40DC-B952-314728EAB74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14343ADF-5837-4E66-90A0-B5C1E90DDCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14343ADF-5837-4E66-90A0-B5C1E90DDCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14343ADF-5837-4E66-90A0-B5C1E90DDCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14343ADF-5837-4E66-90A0-B5C1E90DDCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8495F9F-6342-4C51-8A9C-092B9EF66CFB}
+	EndGlobalSection
+EndGlobal

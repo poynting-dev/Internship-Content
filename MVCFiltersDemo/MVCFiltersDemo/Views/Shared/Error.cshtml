@@ -1,0 +1,20 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Error</title>
+</head>
+<body>
+    <hgroup>
+        <h2>Unknown Error</h2>
+        <h3>An unknown error has occurred. We are working on it. Please try after some time</h3>
+        <h3>Controller Name: @Model.ControllerName</h3>
+        <h3>Action Name:  @Model.ActionName</h3>
+        <h3>Exception Details: @Model.Exception</h3>
+    </hgroup>
+</body>
+</html>
